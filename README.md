@@ -1,3 +1,3 @@
 # Awesome-Diffusion-papers
 
-## Theory
+Theory
